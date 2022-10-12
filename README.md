@@ -5,4 +5,4 @@ This project is part of my learning practices on LearnWeb3 DAO.
 
 ### Screenshot
 
-![](./screenshot.png)
+![](../screenshot.png)
